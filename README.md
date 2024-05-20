@@ -1,7 +1,6 @@
 # Unique_DataStructure ✍️
 
-## Description
-UniqueInt is a Python application that processes a user-specified text file, extracts integers within a specified range, ensures their uniqueness, sorts them, and writes the results to a new file. The application also moves the input file to a designated directory for easy management.
+## DescriptionUniqueInt is a Python application that simplifies text file processing by extracting integers within a specified range, ensuring uniqueness, sorting them, and saving the results to a new file in the folder called sample_results. Integrated with an array data structure, it offers efficiency and accuracy. Users input the file path interactively, and UniqueInt seamlessly handles the data, organizing it into sample_results for output and sample_input for input files, ensuring effortless data management. Furthermore, Unique_DataStructure, in the first place, has some already files in sample_input and in sample_results; these are files that were used to test the application. Feel free to go through them and be able to observe clearly how the function filters to get only unique integers in a result file.
 
 ## Features
 
@@ -21,13 +20,13 @@ UniqueInt is a Python application that processes a user-specified text file, ext
 1. Clone the repository:
 
     ```
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/pimanzi/Unique_DataStructure.git
+    cd Unique_DataStructure
     ```
 
 2. Ensure you have Python 3 installed. You can check this by running:
 
-    ```sh
+    ```
     python --version
     ```
 
@@ -35,14 +34,14 @@ UniqueInt is a Python application that processes a user-specified text file, ext
 
 1. Navigate to the directory containing the `UniqueInt.py` script.
 
-    ```sh
-    cd <repository_directory>
+    ```
+    cd Unique_DataStructure
     ```
 
 2. Run the script:
 
-    ```sh
-    python UniqueInt.py
+    ```
+    python3 UniqueInt.py
     ```
 
 3. Follow the prompts in the command line:
@@ -62,7 +61,7 @@ UniqueInt is a Python application that processes a user-specified text file, ext
 
 2. Run the script and enter the file path:
 
-    ```sh
+    ```
     Type the ***path of your file*** or type ***quit*** to exit the program: /home/user/documents/sample_01.txt
     ```
 
@@ -79,13 +78,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+we are always happy to gain contributors to our projects. Feel free to suggest changes to  adopt or any feedback .
 
-## Contact
+*Happy coding😇*
 
-For any questions or suggestions, please open an issue or contact the repository owner.
-
+## Author
+Imanzi Kabisa Placide 
