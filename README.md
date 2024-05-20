@@ -1,6 +1,7 @@
 # Unique_DataStructure ✍️
 
-## DescriptionUniqueInt is a Python application that simplifies text file processing by extracting integers within a specified range, ensuring uniqueness, sorting them, and saving the results to a new file in the folder called sample_results. Integrated with an array data structure, it offers efficiency and accuracy. Users input the file path interactively, and UniqueInt seamlessly handles the data, organizing it into sample_results for output and sample_input for input files, ensuring effortless data management. Furthermore, Unique_DataStructure, in the first place, has some already files in sample_input and in sample_results; these are files that were used to test the application. Feel free to go through them and be able to observe clearly how the function filters to get only unique integers in a result file.
+## Description  
+UniqueInt is a Python application that simplifies text file processing by extracting integers within a specified range, ensuring uniqueness, sorting them, and saving the results to a new file in the folder called sample_results. Integrated with an array data structure, it offers efficiency and accuracy. Users input the file path interactively, and UniqueInt seamlessly handles the data, organizing it into sample_results for output and sample_input for input files, ensuring effortless data management. Furthermore, Unique_DataStructure, in the first place, has some already files in sample_input and in sample_results; these are files that were used to test the application. Feel free to go through them and observe how the function filters to get unique integers in a result file.
 
 ## Features
 
